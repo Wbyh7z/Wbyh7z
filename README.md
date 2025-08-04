@@ -52,7 +52,7 @@ Gosto de transformar uma arte estática em algo funcional, fluido e envolvente. 
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://i.gifer.com/3otv.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills

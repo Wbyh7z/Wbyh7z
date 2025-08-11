@@ -55,7 +55,7 @@ Gosto de transformar uma arte estática em algo funcional, fluido e envolvente. 
   <img align="center" src="https://i.gifer.com/3otv.gif" alt="Imagem">
 </p>
 
-## 🔥 Skills
+## 🔥 Skills & Frameworks
 <!-- Skills: Programming Languages -->
  <br clear="both">
 
@@ -81,24 +81,13 @@ Gosto de transformar uma arte estática em algo funcional, fluido e envolvente. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="38" alt="angularjs logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="38" alt="vuejs logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 
 
   
-  <!-- Skills: Tools & Frameworks -->
- <br clear="both">
-<h3> Ferramentas </h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+
   
-  <!-- Skills: Libraries -->
-  <br clear="both">
-<h3>Bibliotecas</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="45" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
-</div>
+ 
 
